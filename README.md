@@ -94,16 +94,6 @@ http://localhost:3000
 
 ---
 
-## 🏆 Hackathon Notes
-
-This project was built for **Hack4Health 2025** to demonstrate:
-- Predictive AI for public health surveillance
-- Early warning systems for vector-borne diseases
-- Data-driven decision support for health authorities
-- Scalable architecture for any district in India
-
----
-
 ## 📂 Project Structure
 
 ```
